@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\bin\Debug\net6.0\Live Coding.exe
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\bin\Debug\net6.0\Live Coding.deps.json
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\bin\Debug\net6.0\Live Coding.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\bin\Debug\net6.0\Live Coding.dll
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\bin\Debug\net6.0\Live Coding.pdb
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\Live Coding.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\Live Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\Live Coding.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\Live Coding.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\Live Coding.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\Live Coding.dll
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\refint\Live Coding.dll
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\Live Coding.pdb
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\Live Coding.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\Coding Dojo Bootcamp\C#\Aug_Sept\Week 1\Session 2\Live Coding\obj\Debug\net6.0\ref\Live Coding.dll
